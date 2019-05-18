@@ -365,10 +365,19 @@
                 "resourcePath": "sprites\\sTrigger\\sTrigger.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "f9c30aa0-c6b9-4ac5-a1ad-789273d2bd9d",
+            "Value": {
+                "id": "dff719f7-06e1-4b70-b83c-c49e697ceea0",
+                "resourcePath": "scripts\\ScreenShake\\ScreenShake.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
-        "c1153568-2781-4419-861f-112bac961900"
+        "c1153568-2781-4419-861f-112bac961900",
+        "f9c30aa0-c6b9-4ac5-a1ad-789273d2bd9d"
     ],
     "tutorial": ""
 }
