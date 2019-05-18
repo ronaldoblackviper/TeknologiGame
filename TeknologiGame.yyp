@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "35ed1182-debb-44e4-9895-36ce48cb34b5",
+            "Value": {
+                "id": "a01ddc41-a61a-4fcc-b4d2-9d377354cbdb",
+                "resourcePath": "objects\\oMenu\\oMenu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "367a3f38-fccf-4a61-8a10-f6a20f67a67f",
             "Value": {
                 "id": "7c736658-e3c3-460c-b625-c8a65b72507e",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "c03eb03c-8181-4071-97d7-ddbd23dbcd0f",
+            "Value": {
+                "id": "a61b36db-a0e6-4e04-982a-07f831fb3960",
+                "resourcePath": "rooms\\rMenu\\rMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c1153568-2781-4419-861f-112bac961900",
             "Value": {
                 "id": "9e7b35ac-408a-451b-b3b9-077cb1fb5006",
@@ -316,6 +332,14 @@
                 "id": "f7547ebf-0123-4fb2-883c-8b056284465e",
                 "resourcePath": "objects\\oGun\\oGun.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "eaef612f-80db-4b29-b499-8bfa041e242f",
+            "Value": {
+                "id": "0faa2e7d-2a1f-4bc5-9161-976ec6924505",
+                "resourcePath": "fonts\\fmenu\\fmenu.yy",
+                "resourceType": "GMFont"
             }
         },
         {
