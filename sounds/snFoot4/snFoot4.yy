@@ -1,8 +1,8 @@
 {
-    "id": "10841bcd-e82b-428a-bc1c-7b2121677fd2",
+    "id": "e499d37b-f697-4a1c-b794-35f852543700",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sound1",
+    "name": "snFoot4",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

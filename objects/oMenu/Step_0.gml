@@ -17,7 +17,7 @@ if(menu_control){
 		menu_commited = menu_cursor;
 		ScreenShake(4,30);
 		menu_control = false;
-		audio_play_sound(SoundDeath,10,false);
+		audio_play_sound(snDeath,10,false);
 	}
 }
  

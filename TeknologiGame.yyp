@@ -42,7 +42,7 @@
             "Key": "099e5c94-30e1-48b5-80a6-b3e2f32534ae",
             "Value": {
                 "id": "fb5ce7b4-d710-4f33-8b4c-c74afe2a2421",
-                "resourcePath": "sounds\\SoundDeath\\SoundDeath.yy",
+                "resourcePath": "sounds\\snDeath\\snDeath.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -50,7 +50,7 @@
             "Key": "10841bcd-e82b-428a-bc1c-7b2121677fd2",
             "Value": {
                 "id": "4b7a29f9-76d1-4b25-a14f-af2c0ec2db98",
-                "resourcePath": "sounds\\sound1\\sound1.yy",
+                "resourcePath": "sounds\\snFoot\\snFoot.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -234,7 +234,7 @@
             "Key": "91a304a8-1ca5-448e-b964-b92ed4ec249d",
             "Value": {
                 "id": "e5d9e2aa-6692-481d-bb52-e4b14bf10436",
-                "resourcePath": "sounds\\sound2\\sound2.yy",
+                "resourcePath": "sounds\\snFoot2\\snFoot2.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -250,7 +250,7 @@
             "Key": "b29f56a3-7f43-4981-a5d9-ac3bbe1a626f",
             "Value": {
                 "id": "ed4fccdb-fa4d-48b9-a2f9-7bfdb7341056",
-                "resourcePath": "sounds\\sound3\\sound3.yy",
+                "resourcePath": "sounds\\snFoot3\\snFoot3.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -346,7 +346,7 @@
             "Key": "d7a86e05-df17-4877-990a-2249a3912b24",
             "Value": {
                 "id": "c2cba03e-f5b2-4072-8b7f-ec162e7a51c7",
-                "resourcePath": "sounds\\SoundFire\\SoundFire.yy",
+                "resourcePath": "sounds\\snFire\\snFire.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -370,7 +370,7 @@
             "Key": "e499d37b-f697-4a1c-b794-35f852543700",
             "Value": {
                 "id": "8fe5ef8b-53bd-444d-9433-dae637e0a647",
-                "resourcePath": "sounds\\sound6\\sound6.yy",
+                "resourcePath": "sounds\\snFoot4\\snFoot4.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -450,7 +450,7 @@
             "Key": "f6386d7f-2aca-459d-9007-7e9f761ed13b",
             "Value": {
                 "id": "e3a85cc9-4951-4453-ada8-fdadd17bd1b4",
-                "resourcePath": "sounds\\SoundLanding\\SoundLanding.yy",
+                "resourcePath": "sounds\\snLanding\\snLanding.yy",
                 "resourceType": "GMSound"
             }
         },

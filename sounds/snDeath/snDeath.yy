@@ -1,8 +1,8 @@
 {
-    "id": "91a304a8-1ca5-448e-b964-b92ed4ec249d",
+    "id": "099e5c94-30e1-48b5-80a6-b3e2f32534ae",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "sound2",
+    "name": "snDeath",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

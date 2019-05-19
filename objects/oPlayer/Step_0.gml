@@ -68,8 +68,8 @@ if(!place_meeting(x,y+1,oWall)){
 	if(sign(vsp) > 0) image_index = 1; else image_index = 0;
 }else{
 	if(sprite_index == sPlayerA) {
-		audio_sound_pitch(SoundLanding,choose(0.8,1.0,1.2));
-		audio_play_sound(SoundLanding,4,false);
+		audio_sound_pitch(snLanding,choose(0.8,1.0,1.2));
+		audio_play_sound(snLanding,4,false);
 	}
 	image_speed = 1;
 	if(hsp == 0){
